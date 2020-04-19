@@ -6,7 +6,11 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-
+/*
+    @author Roger Maciel
+    @since 19/04/2020
+    @version 1.0
+ */
 @SpringBootApplication
 public class ExemploEscopoApplication {
 
