@@ -6,6 +6,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 
+/*
+    @author Roger Maciel
+    @since 19/04/2020
+    @version 1.0
+ */
 @SpringBootApplication
 @ComponentScan("extendsclasses")
 public class ExemploComponentScanApplication {
