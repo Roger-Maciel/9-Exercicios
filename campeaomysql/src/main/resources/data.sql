@@ -1,0 +1,12 @@
+--insert into campeao(id_campeao, nome, precoEA)
+--values( 0, 'Darius', 4800.00);
+--
+--insert into campeao(id_campeao, nome, precoEA)
+--values( 0, 'Gnar', 6300.00);
+--
+--insert into campeao(id_campeao, nome, precoEA)
+--values( 0, 'Ashe', 450.00);
+--
+--insert into campeao(id_campeao, nome, precoEA)
+--values( 0, 'Ornn', 6300.00);
+--

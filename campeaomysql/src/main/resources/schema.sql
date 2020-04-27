@@ -1,0 +1,7 @@
+--DROP TABLE IF EXISTS campeoes;
+--
+--CREATE TABLE campeao (
+--       id_campeao BIGINT AUTO_INCREMENT NOT NULL,
+--       nome VARCHAR(255) NULL,
+--       precoEA DOUBLE NULL,
+--       Primary KEY (id_campeao));
